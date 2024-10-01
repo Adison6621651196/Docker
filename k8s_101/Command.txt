@@ -1,0 +1,7 @@
+01/10/24
+kubectl get pods
+kubectl get all
+kubectl logs client-pods
+kubectl delete pods client-deployment-c69cb99fc-wjrf8
+kubectl delete deployment client-deployment
+kubectl apply -f .
